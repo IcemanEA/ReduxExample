@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "asyncredux",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/IcemanEA/AsyncRedux",
+      "state" : {
+        "revision" : "4ff1ae54ed411167513e11fbdd3ff4c5786e796e",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
