@@ -44,5 +44,5 @@ struct RouterView: View {
 		errorText: "",
 		cleanError: {},
 		isError: false
-	).environmentObject(AppDelegate(mode: .done).store)
+	).environmentObject(AppDelegate(mode: .error(NetworkService.Error.badCredential)).store)
 }

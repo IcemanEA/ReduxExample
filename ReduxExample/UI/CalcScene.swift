@@ -35,11 +35,13 @@ struct CalcScene: View {
 	}
 }
 
-#Preview {
+#Preview("dark") {
 	CalcScene(
 		count: 0,
 		increment: {},
 		decrement: {},
 		logout: {}
 	)
+	.previewInterfaceOrientation(.landscapeRight) // устанавливаем ориентацию в просмотре
+	.preferredColorScheme(.dark) // меняем режим просмотра
 }
