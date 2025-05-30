@@ -23,7 +23,6 @@
 		488ECA362BF7955800BBAA83 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 488ECA352BF7955800BBAA83 /* NetworkService.swift */; };
 		488ECA382BF795A700BBAA83 /* DIContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 488ECA372BF795A700BBAA83 /* DIContainer.swift */; };
 		488ECA3A2BF7EB7E00BBAA83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 488ECA392BF7EB7E00BBAA83 /* AppDelegate.swift */; };
-		488ECA3D2BF7F68000BBAA83 /* AsyncRedux in Frameworks */ = {isa = PBXBuildFile; productRef = 488ECA3C2BF7F68000BBAA83 /* AsyncRedux */; };
 		488ECA4C2BF7FC5700BBAA83 /* LogService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 488ECA4B2BF7FC5700BBAA83 /* LogService.swift */; };
 		488ECA4E2BF7FE1800BBAA83 /* Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 488ECA4D2BF7FE1800BBAA83 /* Types.swift */; };
 		48E9CED12BFA00C80022B223 /* NetworkServiceMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48E9CED02BFA00C80022B223 /* NetworkServiceMock.swift */; };
@@ -78,7 +77,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				48E9CEF32BFA52A60022B223 /* AsyncRedux in Frameworks */,
-				488ECA3D2BF7F68000BBAA83 /* AsyncRedux in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
